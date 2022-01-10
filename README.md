@@ -15,5 +15,5 @@ stow vscode -t "$HOME/Library/Application Support/Code/User/"
 Everything else
 
 ```
-stow zsh misc
+stow zsh misc git
 ```
