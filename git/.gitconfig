@@ -1,5 +1,5 @@
-[user]
-	email = weitz.steffen@gmail.com
-	name = Steffen Weitz
 [core]
 	excludesfile = ~/.gitignore
+
+[include]
+	path = ~/.gitcredentials
