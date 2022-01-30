@@ -1,11 +1,5 @@
 # dotfiles - and other config files for macOS
 
-iTerm2 settings
-
-```
-stow iterm2 -t $HOME/Library/Preferences/
-```
-
 VS Code settings
 
 ```
