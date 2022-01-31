@@ -1,13 +1,20 @@
 # dotfiles - and other config files for macOS
 
-VS Code settings
+### 1. Install Homebrew
 
 ```
-stow vscode -t "$HOME/Library/Application Support/Code/User/"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-Everything else
+### 2. Install all the things
+
+- Brew packages
+- Oh-My-Zsh
+- Latest LTS Node version
+- VS Code extensions
+- VS Code settings
+- dotfiles (zsh, misc, git)
 
 ```
-stow zsh misc git
+sh setup.sh
 ```
