@@ -1,18 +1,21 @@
 {
-    "telemetry.telemetryLevel": "off",
-    "workbench.colorTheme": "Dracula",
-    "workbench.startupEditor": "none",
-    "security.workspace.trust.banner": "never",
-    "editor.tabSize": 2,
-    "editor.renderWhitespace": "all",
-    "editor.bracketPairColorization.enabled": true,
-    "workbench.iconTheme": "material-icon-theme",
-    "javascript.preferences.importModuleSpecifier": "relative",
-    "typescript.preferences.importModuleSpecifier": "relative",
-    "prettier.singleQuote": true,
-    "editor.formatOnSave": true,
-    "[javascript]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
+  "telemetry.telemetryLevel": "off",
+  "workbench.colorTheme": "Dracula",
+  "workbench.startupEditor": "none",
+  "security.workspace.trust.banner": "never",
+  "editor.tabSize": 2,
+  "editor.renderWhitespace": "all",
+  "editor.bracketPairColorization.enabled": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "javascript.preferences.importModuleSpecifier": "relative",
+  "typescript.preferences.importModuleSpecifier": "relative",
+  "prettier.singleQuote": true,
+  "editor.formatOnSave": true,
+  "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.quickSuggestions": {
+    "strings": true
+  }
 }
