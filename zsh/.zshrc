@@ -1,3 +1,10 @@
+# ALIAS
+alias desk="cd ~/Desktop"
+alias docs="cd ~/Documents"
+alias dot="cd ~/dotfiles"
+alias learn="cd ~/Documents/learn"
+alias projects="cd ~/Documents/projects"
+
 # NVM
 export NVM_DIR="$HOME/.nvm"
 [ -s "$(brew --prefix)/opt/nvm/nvm.sh" ] && \. "$(brew --prefix)/opt/nvm/nvm.sh"
