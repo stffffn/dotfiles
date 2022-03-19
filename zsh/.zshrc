@@ -1,4 +1,5 @@
 # ALIAS
+alias 2gif="sh ~/gif.sh"
 alias desk="cd ~/Desktop"
 alias docs="cd ~/Documents"
 alias dot="cd ~/dotfiles"
