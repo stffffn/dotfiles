@@ -17,5 +17,6 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.quickSuggestions": {
     "strings": true
-  }
+  },
+  "svelte.enable-ts-plugin": true
 }
