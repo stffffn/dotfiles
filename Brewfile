@@ -16,6 +16,7 @@ cask "affinity-photo"
 cask "affinity-publisher"
 cask "appcleaner"
 cask "blender"
+cask "coconutbattery"
 cask "discord"
 cask "eurkey"
 cask "firefox"
@@ -38,6 +39,7 @@ cask "spark-ar-studio"
 cask "spotify"
 cask "via"
 cask "visual-studio-code"
+mas "Amphetamine", id: 937984704
 mas "GarageBand", id: 682658836
 mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694

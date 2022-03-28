@@ -18,5 +18,6 @@
   "editor.quickSuggestions": {
     "strings": true
   },
-  "svelte.enable-ts-plugin": true
+  "svelte.enable-ts-plugin": true,
+  "diffEditor.ignoreTrimWhitespace": false
 }
