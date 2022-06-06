@@ -15,3 +15,7 @@ export NVM_DIR="$HOME/.nvm"
 export ZSH="/Users/stffffn/.oh-my-zsh"
 ZSH_THEME="robbyrussell"
 source $ZSH/oh-my-zsh.sh
+
+# E2FSPROGS
+export PATH="/opt/homebrew/opt/e2fsprogs/bin:$PATH"
+export PATH="/opt/homebrew/opt/e2fsprogs/sbin:$PATH"
