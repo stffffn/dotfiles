@@ -38,6 +38,7 @@ cask "rectangle"
 cask "sensiblesidebuttons"
 cask "spark-ar-studio"
 cask "spotify"
+cask "unity-hub"
 cask "via"
 cask "visual-studio-code"
 mas "Amphetamine", id: 937984704
