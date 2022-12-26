@@ -1,27 +1,23 @@
 {
-  "telemetry.telemetryLevel": "off",
-  "workbench.colorTheme": "Dracula",
-  "workbench.startupEditor": "none",
-  "security.workspace.trust.banner": "never",
-  "editor.tabSize": 2,
-  "editor.renderWhitespace": "all",
-  "editor.bracketPairColorization.enabled": true,
-  "workbench.iconTheme": "material-icon-theme",
-  "javascript.preferences.importModuleSpecifier": "relative",
-  "typescript.preferences.importModuleSpecifier": "relative",
-  "prettier.singleQuote": true,
-  "editor.formatOnSave": true,
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[python]": {
     "editor.defaultFormatter": null
   },
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.quickSuggestions": {
-    "strings": true
-  },
-  "svelte.enable-ts-plugin": true,
   "diffEditor.ignoreTrimWhitespace": false,
-  "python.formatting.provider": "black"
+  "editor.bracketPairColorization.enabled": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.renderWhitespace": "all",
+  "editor.tabSize": 2,
+  "javascript.preferences.importModuleSpecifier": "relative",
+  "python.formatting.provider": "black",
+  "security.workspace.trust.banner": "never",
+  "svelte.enable-ts-plugin": true,
+  "telemetry.telemetryLevel": "off",
+  "typescript.preferences.importModuleSpecifier": "relative",
+  "workbench.colorTheme": "Dracula",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.startupEditor": "none"
 }
