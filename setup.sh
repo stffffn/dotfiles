@@ -8,9 +8,6 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 . ~/.nvm/nvm.sh
 nvm install --lts
 
-# Install VS Code extensions
-sh vscode.sh
-
 # Import VS Code settings
 stow vscode -t "$HOME/Library/Application Support/Code/User/"
 
