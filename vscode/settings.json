@@ -8,6 +8,7 @@
   "diffEditor.ignoreTrimWhitespace": false,
   "editor.bracketPairColorization.enabled": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.fontFamily": "Hack",
   "editor.formatOnSave": true,
   "editor.renderWhitespace": "all",
   "editor.tabSize": 2,
