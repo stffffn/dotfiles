@@ -61,6 +61,7 @@ mas "Pages", id: 409201541
 mas "Xcode", id: 497799835
 vscode "Angular.ng-template"
 vscode "bradlc.vscode-tailwindcss"
+vscode "clinyong.vscode-css-modules"
 vscode "dbaeumer.vscode-eslint"
 vscode "dracula-theme.theme-dracula"
 vscode "esbenp.prettier-vscode"
