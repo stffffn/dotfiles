@@ -1,5 +1,7 @@
-source .zsh/lib/prompt.zsh
-source .zsh/lib/completion.zsh
+ZSH_LIB=~/.zsh/lib
+
+source $ZSH_LIB/prompt.zsh
+source $ZSH_LIB/completion.zsh
 
 # ALIAS
 alias 2gif="sh ~/gif.sh"
