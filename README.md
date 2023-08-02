@@ -9,7 +9,6 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/inst
 ### 2. Install all the things
 
 - Brew packages
-- Oh-My-Zsh
 - Latest LTS Node version
 - VS Code extensions
 - VS Code settings
