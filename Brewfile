@@ -47,12 +47,14 @@ cask "pocket-casts"
 cask "rectangle"
 cask "sensiblesidebuttons"
 cask "spotify"
+cask "the-unarchiver"
 cask "unity-hub"
 cask "utm"
 cask "via"
 cask "vial"
 cask "visual-studio-code"
 mas "Amphetamine", id: 937984704
+mas "Brother P-touch Editor", id: 1453365242
 mas "GarageBand", id: 682658836
 mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694

@@ -17,6 +17,7 @@
   "security.workspace.trust.banner": "never",
   "svelte.enable-ts-plugin": true,
   "telemetry.telemetryLevel": "off",
+  "terminal.integrated.cursorStyle": "line",
   "typescript.preferences.importModuleSpecifier": "relative",
   "workbench.colorTheme": "Dracula",
   "workbench.iconTheme": "material-icon-theme",
