@@ -1,2 +1,2 @@
 # Backup Brew Packages
-brew bundle dump -f cleanup
+brew bundle dump -f
