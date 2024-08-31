@@ -19,7 +19,7 @@
   "telemetry.telemetryLevel": "off",
   "terminal.integrated.cursorStyle": "line",
   "typescript.preferences.importModuleSpecifier": "relative",
-  "workbench.colorTheme": "Dracula",
+  "workbench.colorTheme": "Dracula Theme",
   "workbench.iconTheme": "material-icon-theme",
   "workbench.startupEditor": "none"
 }
